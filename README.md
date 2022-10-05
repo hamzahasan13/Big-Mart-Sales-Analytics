@@ -1,2 +1,3 @@
-# BigMart-Sales-Analytics
-Analyzed Financial and Industrial performance using Tableau and put forward recommendations on how to increase sales and profits for the company.
+# Big Mart-Sales-Analytics
+Built a dashboard to track KPIs (such as Financial and Industrial performance) using Tableau and generated a report highlighting recommendations on how to increase sales and profits.
+

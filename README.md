@@ -1,4 +1,4 @@
-# Big Mart-Sales-Analytics
+# Big Mart Sales Analytics
 
 ## Table of Contents
 1) Software used
@@ -6,6 +6,7 @@
 3) Motivation
 4) Technical Aspect
 5) Dashboard
+6) Credits
 
 ### 1. Software used
 <img src="https://user-images.githubusercontent.com/114373000/194162794-09e3fa56-0fff-494e-8787-b40e0f51eec0.png" alt="drawing" width="600"/>
@@ -23,3 +24,6 @@ The project is divided into three parts:
 
 ### 5. Dashboard
 <img src="https://user-images.githubusercontent.com/114373000/194161092-94254ff4-6599-48f7-b8ea-3049106c62e7.png" alt="drawing" width="800"/>
+
+### 6. Credits
+[Kaggle](https://www.kaggle.com/)

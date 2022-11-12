@@ -1,4 +1,4 @@
-# Big Mart Sales Analytics
+# E-Commerce Analytics
 
 ## Table of Contents
 1) Software used

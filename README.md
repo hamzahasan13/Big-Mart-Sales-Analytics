@@ -14,10 +14,11 @@
 ### 2. Overview
 This is a dashboard built using Tableau which tracks KPIs using sales dataset.
 ### 3. Motivation
-The main motivattion behind this project was to use data analytics to drive data driven decision making. By analyzing the dataset and building the dashboard, recommendations were tabulated in the report which pointed out on how to increase sales and profits for the company Big Mart.
+The main motivattion behind this project was to use data analytics to drive data driven decision making. By quering the dataset using SQL and building the dashboard, recommendations were tabulated in the report which pointed out on how to increase sales and profits for the business.
 
 ### 4. Technical Aspect
-The project is divided into three parts:
+The project is divided into following parts:
+* SQL quering
 * Data cleaning
 * Data visualization
 * Report writing
